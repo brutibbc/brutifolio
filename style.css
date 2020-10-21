@@ -1,0 +1,20 @@
+#nome{
+    font-family: cursive;
+}
+#descricao{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color:rgb(101, 113, 83);
+    color: rgb(215, 217, 177);
+}
+strong{
+    font-weight:900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.letramaior{
+    font-size: 24px;
+}
+.letramenor{
+    font-size: 18px;
+}
